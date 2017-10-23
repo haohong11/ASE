@@ -3,19 +3,19 @@
 /* Copyright (C) SSE-USTC, 2012-2013                                */
 /*                                                                  */
 /*  FILE NAME             :  linktabe.c                             */
-/*  PRINCIPAL AUTHOR      :  Mengning                               */
+/*  PRINCIPAL AUTHOR      :  haohong                                */
 /*  SUBSYSTEM NAME        :  LinkTable                              */
 /*  MODULE NAME           :  LinkTable                              */
 /*  LANGUAGE              :  C                                      */
 /*  TARGET ENVIRONMENT    :  ANY                                    */
-/*  DATE OF FIRST RELEASE :  2012/12/30                             */
+/*  DATE OF FIRST RELEASE :  2017/10/23                             */
 /*  DESCRIPTION           :  interface of Link Table                */
 /********************************************************************/
 
 /*
  * Revision log:
  *
- * Created by Mengning,2012/12/30
+ * Created by haohong,2017/10/23
  * Provide right Callback interface by Mengning,2012/09/17
  *
  */
